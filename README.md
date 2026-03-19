@@ -1,4 +1,4 @@
-#👋 Hi, I'm Irfan Safi
+##👋 Hi, I'm Irfan Safi
 Full-Stack Develope • DSA Enthusiast
 
 ## 🌐 Socials:
