@@ -1,5 +1,7 @@
-##👋 Hi, I'm Irfan Safi
-Full-Stack Develope • DSA Enthusiast
+<p align="center">
+  <h1>Hi 👋, I'm Md Irfan Safi</h1>
+  <h3>Full-Stack Developer | DSA Enthusiast</h3>
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/irfansafi123) 
