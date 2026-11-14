@@ -1,7 +1,11 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00f7ff&height=240&section=header&text=Md%20Irfan%20Safi&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Automation&descAlignY=58&descSize=20" alt="header" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=44&duration=4000&pause=2000&color=00F7FF&center=true&vCenter=true&width=800&height=90&lines=MD+IRFAN+SAFI" alt="Md Irfan Safi" />
+
+<img src="https://img.shields.io/badge/FULL_STACK_DEVELOPER-AI_%26_AUTOMATION-7b2ff7?style=for-the-badge&labelColor=0f0c29" alt="role" />
+
+<br/>
 
 <a href="https://github.com/irfansaficodes">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00F7FF&center=true&vCenter=true&width=700&height=50&lines=%3E+Building+scalable+MERN+applications;%3E+Automating+workflows+with+AI;%3E+Solving+problems+with+DSA;%3E+Open+to+SDE-1+%2F+Full+Stack+roles+%F0%9F%9A%80" alt="Typing SVG" />
@@ -46,7 +50,6 @@ $ echo "Ship small, learn fast, iterate."
 I build production-style web apps with the MERN stack, design clean REST APIs, and enjoy solving problems with Data Structures & Algorithms. I'm also exploring **AI and automation**: connecting LLM APIs to web apps and automating repetitive work so it takes less time.
 
 <div align="center">
-  <!-- Swap this URL with any GIF you like (see steps in chat) -->
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdpYTMxMHh5eGxkMDUyc3Vib3A0aHpzaGZmMzdocDA4Y2czZXhyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="coding gif" width="320" />
 </div>
 
@@ -168,19 +171,25 @@ I build production-style web apps with the MERN stack, design clean REST APIs, a
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=irfansaficodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfansaficodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="top langs" />
-
 <img src="https://streak-stats.demolab.com?user=irfansaficodes&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=irfansaficodes&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" alt="activity graph" width="95%" />
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/irfansaficodes?style=for-the-badge&logo=github&color=00f7ff&labelColor=0f0c29" alt="followers" />
+<img src="https://img.shields.io/github/stars/irfansaficodes?style=for-the-badge&logo=github&color=7b2ff7&labelColor=0f0c29" alt="stars" />
+
+<br/><br/>
+
+**Contribution Graph**
+
+<img src="https://ghchart.rshah.org/00f7ff/irfansaficodes" alt="contribution chart" width="95%" />
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/robiot/robiot/main/jump.gif" alt="jump" width="120" />
+  <img src="https://raw.githubusercontent.com/robiot/robiot/main/jump.gif" alt="jump" width="400" />
 </div>
 
 <div align="center">
@@ -191,6 +200,6 @@ I build production-style web apps with the MERN stack, design clean REST APIs, a
 
 [![Email me](https://img.shields.io/badge/Say_Hello-itisirfan9091%40gmail.com-00f7ff?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0f0c29)](mailto:itisirfan9091@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:302b63,100:0f0c29&height=140&section=footer" alt="footer" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&height=40&lines=Thanks+for+visiting+%F0%9F%91%8B;Code.+Create.+Automate.+Repeat." alt="footer" />
 
 </div>
